@@ -1,1 +1,1 @@
-Just a quick python program for hangman !
+A simple python program for the hangman game !
